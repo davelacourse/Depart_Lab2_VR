@@ -1,0 +1,21 @@
+Sons de la Station Orion-7 (laboratoire 2, 420-526-RI)
+Préparés pour le jeu : coupés, en mono pour les sons 3D, volumes égalisés, boucles sans coupure.
+Sources : Sonniss #GameAudioGDC 2026 (usage interne), Kenney (CC0), sons composés pour le jeu.
+
+SFX_Loop_Station_Hum.ogg	30.0 s	stéréo	fond 2D, partout (groupe Ambiance)	Epic Stock Media, Strange Game Ambient Loops 3
+SFX_Loop_Alarm.ogg	2.0 s	mono	alarme 3D, AlarmLight_*	Federico Soler, Effective Trailer Alarms Vol. 2 (WholeNotes 011)
+SFX_Loop_Generator.ogg	20.0 s	mono	générateur en marche 3D, Generator	Epic Stock Media, Strange Game Ambient Loops 3
+SFX_Loop_Neon_Buzz.ogg	8.0 s	mono	grésillement des néons 3D, pendant le clignotement	344 Audio, East Coast America
+SFX_Loop_Specimen_Breathing.ogg	30.0 s	mono	respiration 3D en boucle, Specimen	344 Audio, Haunting Ambiences Vol. 5
+SFX_Generator_Start.ogg	7.48 s	mono	démarrage 3D, Generator	InMotionAudio, Arc
+SFX_Power_Down.ogg	2.5 s	mono	coupure de courant 3D, Generator ou PowerPanel	SFX_Loop_Generator ralenti (fait pour le jeu)
+SFX_Cell_Insert.ogg	0.3 s	mono	cellule logée 3D, EnergySlot	Epic Stock Media, HD Lock and Mechanism
+SFX_Cell_Refused.ogg	0.46 s	mono	cellule refusée 3D, EnergySlot	Cinematic Sound Design, System & UI Feedback
+SFX_Cell_Drop.ogg	0.35 s	mono	cellule qui tombe 3D, cellules	Kenney, Impact Sounds (CC0)
+SFX_Screen_Boot.ogg	1.62 s	mono	écran qui s'allume 3D, ScreenMount	Kenney, Interface Sounds + Sci-fi Sounds (CC0), prolongé pour le jeu
+SFX_Button_Beep.ogg	0.53 s	mono	appui sur un bouton 3D, Console	InMotionAudio, Medical Thermometer
+SFX_Code_Refused.ogg	0.26 s	mono	mauvais code 3D, Console	Kenney, Interface Sounds (CC0)
+SFX_Code_Accepted.ogg	0.54 s	mono	bon code 3D, Console	Kenney, Interface Sounds (CC0)
+SFX_Distress_Signal.ogg	7.14 s	mono	envoi du signal 3D, Console	Composé pour le jeu (+ Federico Soler, Effective Trailer Booms Vol. 2)
+SFX_UI_Click.ogg	0.24 s	mono	boutons Recommencer et Quitter 2D	Kenney, Interface Sounds (CC0)
+SFX_Alien_Growl.ogg	2.46 s	mono	grognement 3D, Specimen	SoundBits, Vox Bestiae

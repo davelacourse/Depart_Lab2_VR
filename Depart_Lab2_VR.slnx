@@ -10,9 +10,7 @@
   <Project Path="Unity.RenderPipelines.Core.Editor.csproj" />
   <Project Path="Unity.Collections.csproj" />
   <Project Path="UnityEngine.UI.csproj" />
-  <Project Path="Unity.Pipeline.IlInterpreter.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.2D.Runtime.csproj" />
-  <Project Path="Unity.Pipeline.csproj" />
   <Project Path="Unity.VisualScripting.Core.Editor.csproj" />
   <Project Path="Unity.RenderPipelines.Universal.Editor.csproj" />
   <Project Path="Unity.PerformanceTesting.Editor.csproj" />
@@ -22,7 +20,6 @@
   <Project Path="Unity.VisualScripting.Flow.Editor.csproj" />
   <Project Path="SteamAudioUnity.csproj" />
   <Project Path="Unity.XR.Interaction.Toolkit.csproj" />
-  <Project Path="Unity.Pipeline.Editor.csproj" />
   <Project Path="Unity.VisualStudio.Editor.csproj" />
   <Project Path="Unity.InputSystem.csproj" />
   <Project Path="Unity.XR.Interaction.Toolkit.Editor.csproj" />
@@ -69,7 +66,6 @@
   <Project Path="Unity.VisualScripting.Shared.Editor.csproj" />
   <Project Path="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj" />
   <Project Path="Unity.XR.OpenXR.Features.MetaQuestSupport.csproj" />
-  <Project Path="Unity.Pipeline.Attributes.csproj" />
   <Project Path="Unity.CollabProxy.Editor.csproj" />
   <Project Path="Unity.RenderPipeline.Universal.ShaderLibrary.csproj" />
   <Project Path="Unity.XR.OpenXR.Features.RuntimeDebugger.csproj" />
@@ -86,7 +82,6 @@
   <Project Path="Unity.XR.OpenXR.TestTooling.csproj" />
   <Project Path="Unity.XR.OpenXR.Features.ConformanceAutomation.csproj" />
   <Project Path="Unity.PlasticSCM.Editor.Entities.csproj" />
-  <Project Path="Unity.Pipeline.CodeGen.csproj" />
   <Project Path="Unity.XR.OpenXR.Features.MockRuntime.csproj" />
   <Project Path="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
